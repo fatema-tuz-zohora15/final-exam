@@ -2,3 +2,27 @@
     font-family: "Poppins", serif;
     box-sizing: border-box;
 }
+.css1{
+    background-color: #1bbca3;
+}
+.css2{
+    color:#1bbca3 ;
+}
+.css3{
+    background-color: rgb(241, 231, 231);
+    margin-top: 7rem;
+}
+.css4{
+    color: gray;
+    font-weight: 700;
+}
+.css5{
+    background-color: rgb(241, 231, 231);
+}
+.css6{
+    background-color: black;
+}
+.foot{
+    color: white;
+    list-style: none;
+}
